@@ -10,8 +10,10 @@ To have a glimpse at the dashboards I developped:
       To have a (better) look at the dashboard, open the dash-urls (you can find them in the subfolders of "dashboards_and_tables" in the run-functions for the different apps)
     Or:
       check the subfolders of "dashboards_and_tables" and open the jpeg-files! I prepared some visual snapshots of the boards
+    OR:
+      EASIEST WAY TO GET A VISUAL IMPRESSION: CHECK THE "IMPRESSIONS"-FOLDER.
 
 Have fun looking at the project and contact me anytime, if you have questions!
 
-P.S.: textx and data colums are in German currently.
+P.S.: texts and data colums are in German currently.
     
